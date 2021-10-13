@@ -1,0 +1,15 @@
+{
+  "name": "react-hello",
+  "version": "0.0.1",
+  "main": "./dist/index.esm.js",
+  "scripts": {
+    "build": "father-build"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "father-build": "^1.20.1"
+  }
+}
