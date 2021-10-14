@@ -9,6 +9,7 @@
 ```bash
 cd react-hello
 yarn
+yarn build
 yarn link
 
 cd ../vue3-app
