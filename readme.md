@@ -13,5 +13,6 @@ yarn link
 
 cd ../vue3-app
 yarn
+yarn link react-hello
 yarn dev
 ```
